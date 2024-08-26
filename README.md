@@ -1,1 +1,1 @@
-Hello, it's FlyingBones. First you have to unzip this file and then open the second README file to get the instructions.
+Hello, it's FlyingBones. First you have to unzip the "bedrock.zip" file and then open the second README file which is inside of it to get the instructions.
