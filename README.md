@@ -1,4 +1,4 @@
 ENG:
-Hello, it's FlyingBones. You have to unzip the "bedrock.zip" file and then open the second README file which is inside of it to get the instructions.
+Hi, it's FlyingBones. To get the instructions you need to extract the "bedrock.zip" file and then read well the second README file inside the extracted file.
 TR:
-Merhaba, ben FlyingBones. İlk olarak "bedrock.zip" dosyasını çıkarmanız ve ardından klasörün içindeki ikinci README(BENİOKU) d
+Merhaba, ben FlyingBones. Talimatları almak için "bedrock.zip" dosyasını çıkarmanız ve ardından çıkarılan dosyanın içindeki ikinci README(BENİOKU) dosyasını dikkatlice okumanız gerekir.
